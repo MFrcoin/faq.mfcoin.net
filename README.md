@@ -1,1 +1,1 @@
-# faq.mfcoin.net
+# faq
