@@ -1,1 +1,1 @@
-# qa
+# faq.mfcoin.net
