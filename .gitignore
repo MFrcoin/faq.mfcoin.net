@@ -2,6 +2,10 @@
 qa-config.php
 qa-cache/*/
 
+#
+LICENSE.md
+README.md
+
 # Other files
 .DS_Store
 .DS_Store?
